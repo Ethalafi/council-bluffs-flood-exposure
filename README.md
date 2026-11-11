@@ -1,6 +1,6 @@
 # Mapping Flood Exposure in Council Bluffs, Iowa
 
-![Council Bluffs FEMA Flood Exposure Map](maps/Council_Bluffs_Flood_Exposure_Map.png)
+![Council Bluffs FEMA Flood Exposure Map](Council_Bluffs_Exposure_Map.png)
 
 ### A GIS-Based Environmental Analysis
 Project Overview
