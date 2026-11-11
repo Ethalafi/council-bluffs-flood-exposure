@@ -1,5 +1,8 @@
-Mapping Flood Exposure in Council Bluffs, Iowa
-A GIS-Based Environmental Analysis
+# Mapping Flood Exposure in Council Bluffs, Iowa
+
+![Council Bluffs FEMA Flood Exposure Map](maps/Council_Bluffs_Flood_Exposure_Map.png)
+
+### A GIS-Based Environmental Analysis
 Project Overview
 This project examines the geographic extent of FEMA-designated Special Flood Hazard Areas (SFHAs) within Council Bluffs, Iowa.
 Using QGIS, FEMA's National Flood Hazard Layer (NFHL), and U.S. Census Bureau municipal boundary data, I evaluated how much of the city's mapped geographic area falls within designated flood-hazard zones.
