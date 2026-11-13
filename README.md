@@ -133,6 +133,28 @@ This project demonstrates practical experience in GIS data acquisition, spatial 
 
 By combining federal flood-hazard data with municipal geographic boundaries, I produced a reproducible spatial analysis that translates complex environmental data into a clear, measurable finding.
 
+## Reproducing the GIS Project
+
+This repository includes the QGIS project file and processed geographic datasets used to create the Council Bluffs flood-exposure map.
+
+### How to Open the Project
+
+1. Click **Code → Download ZIP** on the repository homepage.
+2. Extract the downloaded ZIP file, preserving its folder structure.
+3. Open `Council_Bluffs_Flood_Exposure.qgz` in QGIS.
+4. Confirm that the two geographic layers load correctly from the `Data` folder.
+5. Open **Project → Layouts** to view the finished flood-exposure map.
+
+### Included GIS Files
+
+- `Council_Bluffs_Flood_Exposure.qgz` — QGIS project and map layout
+- `Data/Council_Bluffs_Boundary.gpkg` — Municipal boundary
+- `Data/Council_Bluffs_SFHA_Dissolved.gpkg` — Processed FEMA Special Flood Hazard Area polygons
+
+**Software:** QGIS 4.2.2
+
+**Note:** The project uses relative file paths. The original FEMA geodatabase is not included; the processed datasets needed to display the final map are provided.
+
 **Software:** QGIS 4.2.2
 
 **Analysis completed:** November 2026
